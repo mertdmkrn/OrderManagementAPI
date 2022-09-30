@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrderManagement.API</name>
+    </assembly>
+    <members>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.GetCustomers">
+            <summary>
+            Get all customer.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.GetCustomerById(System.Int32)">
+            <summary>
+            Get customer by id.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.GetOrdersByCustomerId(System.Int32)">
+            <summary>
+            Get orders by customer id.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.GetOrderById(System.Int32)">
+            <summary>
+            Get order by id.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.GetOrderItems(System.Int32)">
+            <summary>
+            Get order item by order id.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.GetOrderItem(System.Int32,System.Int32)">
+            <summary>
+            Get order item by order id and item ordinal.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.SaveCustomer(OrderManagement.Models.Customer)">
+            <summary>
+            Add new customer.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.SaveOrder(System.Int32,System.Collections.Generic.List{OrderManagement.Services.Model.ProductInfo})">
+            <summary>
+            Add new order to customer.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.UpdateCustomer(OrderManagement.Models.Customer)">
+            <summary>
+            Update customer.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.UpdateOrderItem(System.Int32,System.String)">
+            <summary>
+            Updates the address of the customer who address the order.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.UpdateOrderItem(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Update order item quantity by order id and item ordinal .
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.DeleteCustomer(System.Int32)">
+            <summary>
+            Delete customer by id.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.DeleteAllCustomerOrder(System.Int32)">
+            <summary>
+            Delete orders by customer id.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.DeleteOrder(System.Int32)">
+            <summary>
+            Delete order by id.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.DeleteOrderItems(System.Int32)">
+            <summary>
+            Delete order items by order id.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.CustomerOrderController.DeleteOrderItem(System.Int32,System.Int32)">
+            <summary>
+            Delete order item by order id and item ordinal.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OrderManagement.API.Controllers.ProductController.getProducts(System.String)">
+            <summary>
+            Get Products
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
