@@ -1,0 +1,12 @@
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\bin\Debug\net6.0\OrderManagement.Models.deps.json
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\bin\Debug\net6.0\OrderManagement.Models.dll
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\bin\Debug\net6.0\OrderManagement.Models.pdb
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net6.0\OrderManagement.Models.csproj.AssemblyReference.cache
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net6.0\OrderManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net6.0\OrderManagement.Models.AssemblyInfoInputs.cache
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net6.0\OrderManagement.Models.AssemblyInfo.cs
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net6.0\OrderManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net6.0\OrderManagement.Models.dll
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net6.0\refint\OrderManagement.Models.dll
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net6.0\OrderManagement.Models.pdb
+C:\Users\merta\source\repos\OrderManagement\OrderManagement.Models\obj\Debug\net6.0\ref\OrderManagement.Models.dll
